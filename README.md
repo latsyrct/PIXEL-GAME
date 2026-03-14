@@ -4,7 +4,7 @@
 後端使用 Google Apps Script (GAS) 連接 Google Sheets 作為題目與成績資料庫。
 
 ## 系統需求
-- Node.js 18+ 或更新版本
+- Node.js 20+ 或更新版本
 - 一個 Google 帳號（用來建立試算表）
 
 ---
